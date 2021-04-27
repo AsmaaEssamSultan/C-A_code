@@ -15,5 +15,8 @@ initializing it to 111111111. The C/A code the XOR of the two outputs.
      - Plot the autocorrelation function of the new C/A code
    - Cross -correlation
      - Plot the cross- correlation function between the two codes
+<p align="center">
+  <img width="460" height="300" src ="https://github.com/AsmaaEssamSultan/C-A_code/blob/main/C_A_code.PNG/460/300">
+  < Figure 1: C/A code generation > 
+</p>
 
-![alt text](http://url/to/img.png)
